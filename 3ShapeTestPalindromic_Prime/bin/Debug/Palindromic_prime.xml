@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Palindromic_prime</name>
+    </assembly>
+    <members>
+        <member name="T:Palindromic_prime.LogWriter">
+            <summary>
+            Class Library for Logging
+            </summary>
+        </member>
+        <member name="M:Palindromic_prime.LogWriter.LogWrite(System.String)">
+            <summary>
+            Writes to Log
+            </summary>
+            <param name="logMessage"></param>
+            <returns>string</returns>
+        </member>
+        <member name="T:Palindromic_prime.PalinDromicPrime">
+            <summary>
+            Class Library to Calculation of Prime and PalinDromic
+            </summary>
+        </member>
+        <member name="M:Palindromic_prime.PalinDromicPrime.PalinDromePrime(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Calculates the PalinDromic Primes within a range on the numberbase defined.
+            </summary>
+            <param name="start"></param>
+            <param name="end"></param>
+            <param name="basenumber"></param>
+            <exception cref="T:System.IndexOutOfRangeException"></exception>
+            <returns>List of strings</returns>
+        </member>
+        <member name="M:Palindromic_prime.PalinDromicPrime.IsPrime(System.Int32)">
+            <summary>
+            Calculates if a number is a Prime.
+            </summary>
+            <param name="i"></param>
+            <returns>boolean</returns>
+        </member>
+        <member name="M:Palindromic_prime.PalinDromicPrime.IsPalinDrome(System.Int32,System.Int32)">
+            <summary>
+            Calculates if a number in the base is PalinDromic
+            </summary>
+            <param name="i"></param>
+            <param name="basenumber"></param>
+            <returns>boolean</returns>
+        </member>
+        <member name="T:Palindromic_prime.StringExtensions">
+            <summary>
+            Extensions for string class
+            </summary>
+        </member>
+        <member name="M:Palindromic_prime.StringExtensions.Left(System.String,System.Int32)">
+            <summary>
+            Gets n characters of string from the left
+            </summary>
+            <param name="value"></param>
+            <param name="maxLenght"></param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Palindromic_prime.StringExtensions.Right(System.String,System.Int32)">
+            <summary>
+            Gets n characters of string from the right
+            </summary>
+            <param name="value"></param>
+            <param name="maxLenght"></param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Palindromic_prime.StringExtensions.Reverse(System.String)">
+            <summary>
+            Gets a string reversed
+            </summary>
+            <param name="input"></param>
+            <returns>string</returns>
+        </member>
+    </members>
+</doc>

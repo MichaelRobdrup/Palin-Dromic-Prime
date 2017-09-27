@@ -1,0 +1,6 @@
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\bin\Debug\Palindromic_prime.xml
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\bin\Debug\Palindromic_prime.dll
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\bin\Debug\Palindromic_prime.pdb
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\obj\Debug\Palindromic_prime.csproj.CoreCompileInputs.cache
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\obj\Debug\Palindromic_prime.dll
+D:\Dropbox\Programmering\3ShapeTestPalindromic_Prime\Palindromic_prime\obj\Debug\Palindromic_prime.pdb
